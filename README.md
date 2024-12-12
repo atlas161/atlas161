@@ -16,20 +16,18 @@ Je suis Angelo DISCEPOLI, un passionné d'informatique. Actuellement, je suis é
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
   <img src="https://img.shields.io/badge/GLPI-0078D4?style=for-the-badge&logo=glpi&logoColor=white" alt="GLPI">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
-
+<!-- 
 ## 📊 Statistiques GitHub
-
+--><!--
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=atlas161&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
-
+-->
 ## 🌐 Réseaux Sociaux
 
 <p>
   <a href="https://www.linkedin.com/in/angelo-discepoli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://discordapp.com/users/863797418365419550"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ## 📧 Contact
