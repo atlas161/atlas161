@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👋 Bienvenue sur mon profil GitHub !
 
 ## 🌟 À propos de moi
@@ -8,7 +6,7 @@ Je suis Angelo DISCEPOLI, un passionné d'informatique. Actuellement, je suis é
 
 ## 🛠️ Compétences
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware">
@@ -23,19 +21,17 @@ Je suis Angelo DISCEPOLI, un passionné d'informatique. Actuellement, je suis é
 
 ## 📊 Statistiques GitHub
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=atlas161&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
 ## 🌐 Réseaux Sociaux
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/angelo-discepoli/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-   <a href="https://discordapp.com/users/863797418365419550"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discordapp.com/users/863797418365419550"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ## 📧 Contact
 
 Pour toute question ou suggestion, veuillez me contacter à l'adresse suivante : [angelo.discepoli161@gmail.com](mailto:angelo.discepoli161@gmail.com).
-
-</div>
