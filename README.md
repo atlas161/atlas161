@@ -1,9 +1,5 @@
 # 👋 Bienvenue sur mon profil GitHub !
 
-## 🌟 À propos de moi
-
-Je suis Angelo DISCEPOLI, un passionné d'informatique. Actuellement, je suis étudiant en deuxième année à SupDeVinci, où je me spécialise dans un BAC +3 en administration système, réseaux et réseaux. J'ai 20 ans et je suis toujours à la recherche de nouvelles opportunités, de nouveaux défis pour apprendre et grandir dans ce domaine.
-
 ## 🛠️ Compétences
 
 <p>
